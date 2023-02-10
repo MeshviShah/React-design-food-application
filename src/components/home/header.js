@@ -17,11 +17,10 @@ export function Header() {
                 <Navbar.Brand href="#" ><b>Blog</b></Navbar.Brand>
               <Navbar.Brand href="#" ><b>Shop</b></Navbar.Brand>
               <Navbar.Brand href="#"><b>About</b></Navbar.Brand>
-              <Navbar.Brand href="#"><b>Contact</b></Navbar.Brand>
+              <Navbar.Brand href="/contact"><b>Contact</b></Navbar.Brand>
               
                 </div>
-              
-              
+             
             </Container>
             
           </Navbar>

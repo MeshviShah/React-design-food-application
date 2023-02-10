@@ -54,7 +54,7 @@ function Home(){
          <p style={{"fontSize":"1.1rem" ,"marginTop" : "2rem"}}>You asked, we delivered. Thos’ best 100 recipes are now available as a hardback and we deliver worldwide!</p>
          <div className="mb-2">
           <Button variant="secondary" size="lg" style={{"marginTop" : "3rem"}}>
-          <className style={{"padding" : "2rem"}}>GO TO SHOP</className>
+          <div className style={{"padding" : "2rem"}}>GO TO SHOP</div>
         </Button>
           </div>
 </Col>
@@ -77,6 +77,7 @@ function Home(){
                   </Row>
                 </Container>
          <Footer />
+         
           </div>    
           );
         }
